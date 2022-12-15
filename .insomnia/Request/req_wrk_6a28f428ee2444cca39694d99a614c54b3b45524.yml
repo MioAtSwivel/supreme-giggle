@@ -1,0 +1,21 @@
+_id: req_wrk_6a28f428ee2444cca39694d99a614c54b3b45524
+type: Request
+parentId: wrk_6a28f428ee2444cca39694d99a614c54
+modified: 1671098156655
+created: 1671098156655
+url: "{{ base_url }}/api/dev/posttest"
+name: /api/dev/posttest
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671098156655
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

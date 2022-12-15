@@ -1,0 +1,33 @@
+_id: req_wrk_6a28f428ee2444cca39694d99a614c54d914623c
+type: Request
+parentId: wrk_6a28f428ee2444cca39694d99a614c54
+modified: 1671098156665
+created: 1671098156665
+url: "{{ base_url }}/api/ftc-claim/validate-info"
+name: /api/ftc-claim/validate-info
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: company
+    disabled: false
+    value: string
+  - name: division
+    disabled: false
+    value: string
+  - name: oic
+    disabled: false
+    value: string
+  - name: type
+    disabled: false
+    value: string
+headers: []
+authentication: {}
+metaSortKey: -1671098156665
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

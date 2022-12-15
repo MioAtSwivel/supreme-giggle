@@ -1,0 +1,21 @@
+_id: req_wrk_6a28f428ee2444cca39694d99a614c54e4514b1f
+type: Request
+parentId: wrk_6a28f428ee2444cca39694d99a614c54
+modified: 1671098156643
+created: 1671098156643
+url: "{{ base_url }}/api/graphs/{{ uuid }}/active"
+name: /api/graphs/{uuid}/active
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671098156643
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

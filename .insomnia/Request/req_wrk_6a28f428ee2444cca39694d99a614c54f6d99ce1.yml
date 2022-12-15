@@ -1,0 +1,21 @@
+_id: req_wrk_6a28f428ee2444cca39694d99a614c54f6d99ce1
+type: Request
+parentId: wrk_6a28f428ee2444cca39694d99a614c54
+modified: 1671098156667
+created: 1671098156667
+url: "{{ base_url }}/api/ftc-claim/test"
+name: /api/ftc-claim/test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671098156667
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,24 @@
+_id: req_wrk_6a28f428ee2444cca39694d99a614c54cdaa78a2
+type: Request
+parentId: wrk_6a28f428ee2444cca39694d99a614c54
+modified: 1671098156646
+created: 1671098156646
+url: "{{ base_url }}/api/graphs/{{ uuid }}/run/{{ key }}"
+name: /api/graphs/{uuid}/run/{key}
+description: ""
+method: POST
+body: {}
+parameters:
+  - name: format
+    disabled: false
+    value: string
+headers: []
+authentication: {}
+metaSortKey: -1671098156646
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
