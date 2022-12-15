@@ -1,7 +1,7 @@
 _id: req_4f07d48ccc3b4be484cf84a460fda136
 type: Request
 parentId: fld_4df2e7305ee24df19bcc84e8d4060df4
-modified: 1671096613073
+modified: 1671096932459
 created: 1671096592276
 url: http://localhost:9500
 name: Ping
@@ -9,7 +9,11 @@ description: yp!
 method: GET
 body: {}
 parameters: []
-headers: []
+headers:
+  - id: pair_56ad87d53a2a46848915b04f2a07039c
+    name: kety
+    value: "123456"
+    description: ""
 authentication: {}
 metaSortKey: -1671096592276
 isPrivate: false
