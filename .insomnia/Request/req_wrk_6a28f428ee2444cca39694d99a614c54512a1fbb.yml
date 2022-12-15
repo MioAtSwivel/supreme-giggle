@@ -1,11 +1,15 @@
 _id: req_wrk_6a28f428ee2444cca39694d99a614c54512a1fbb
 type: Request
 parentId: wrk_6a28f428ee2444cca39694d99a614c54
-modified: 1671101528697
+modified: 1671101569785
 created: 1671098156672
 url: "{{ base_url }}/api"
 name: /api
-description: "This is "
+description: |-
+  This is the main endpoint
+  **WOW**
+
+  *Italic text holy man* `bruh`
 method: GET
 body: {}
 parameters: []
